@@ -1,8 +1,23 @@
-## Hi there in construction... 🎭
-:construction: Proyecto en construcción :construction:
+👋 ¡Hola! Soy Robert D. Barrios
+Soy Ingeniero Industrial con experiencia en calidad, procesos y análisis de datos. Actualmente, lidero procesos ETL y estudio Ingeniería en Desarrollo de Software.
 
-<!--
-**RobertDBarrios/RobertDBarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Habilidades Técnicas
+Herramientas de BI: Power BI (70%), Power Query, SAP BO, QlikView
+
+Bases de Datos: PL/SQL
+
+Análisis de Datos: Excel avanzado, servicios en línea
+
+Desarrollo de Software: En proceso de aprendizaje
+
+📚 Formación Académica
+Ingeniería en Desarrollo de Software (En curso)
+
+📫 Conecta conmigo
+LinkedIn: linkedin.com/in/robertdbarrios
+
+Correo Electrónico: robertdbarrios@example.com
+
 
 Here are some ideas to get you started:
 
