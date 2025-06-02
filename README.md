@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy **Robert D. Barrios**
+##¡Hola! Soy **Robert D. Barrios**
 
 **Ingeniero Industrial** con una sólida base en **BI, análisis de datos, procesos ETL, visualización de datos y creación de dashboards estrategicos**, estudiando **desarrollo de software** para cotinuar con mi desarrollo tecnologico. 
 
@@ -31,7 +31,7 @@ Actualmente soy **Líder de procesos ETL en Price Shoes**
 ### 🎓 **Formación Académica**
 
 **Ingeniería en Desarrollo de Software** (En curso)  
-*UVEG *
+*UVEG*
 
 **Ingeniería Industrial**  
 *TESCO*
