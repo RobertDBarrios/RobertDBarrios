@@ -1,32 +1,38 @@
-👋 ¡Hola! Soy Robert D. Barrios
-Soy Ingeniero Industrial con experiencia en calidad, procesos y análisis de datos. Actualmente, lidero procesos ETL y estudio Ingeniería en Desarrollo de Software.
+## 👋 ¡Hola! Soy **Robert D. Barrios**
 
-🛠️ Habilidades Técnicas
-Herramientas de BI: Power BI (70%), Power Query, SAP BO, QlikView
+**Ingeniero Industrial** con una sólida base en **BI, análisis de datos, procesos ETL, visualización de datos y creación de dashboards estrategicos**, estudiando **desarrollo de software** para cotinuar con mi desarrollo tecnologico. 
 
-Bases de Datos: PL/SQL
+Actualmente soy **Líder de procesos ETL en Price Shoes**
 
-Análisis de Datos: Excel avanzado, servicios en línea
+### 🛠️ **Habilidades Tecnológicas** 
 
-Desarrollo de Software: En proceso de aprendizaje
+**Herramientas de BI & Análisis de Datos:**  
+- **Excel**
+- **Power BI** (Desktop & Online) 
+- **Power Query**
+- **QlikView**  
+- **SAP BO**  
 
-📚 Formación Académica
-Ingeniería en Desarrollo de Software (En curso)
+**Bases de Datos & Lenguajes:**  
+- **PL/SQL**  
+- **SQL** (MySQL)  
+- **Python**
+- **R**
 
-📫 Conecta conmigo
-LinkedIn: linkedin.com/in/robertdbarrios
+**Adicionales:**  
+- **Adobe Ilustrator**  
+- **Adobe Photoshop**  
+- **Canva**  
 
-Correo Electrónico: robertdbarrios@example.com
+**Desarrollo de Software:**  
+- **Metodologías Ágiles** (Scrum, Kanban)  
+- **Fundamentos de programación orientada a objetos**
 
+### 🎓 **Formación Académica**
 
-Here are some ideas to get you started:
+**Ingeniería en Desarrollo de Software** (En curso)  
+*UVEG *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ingeniería Industrial**  
+*TESCO*
+
