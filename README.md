@@ -1,10 +1,11 @@
-## ¡Hola! Soy **Robert D. Barrios**
+## ¡Hola! Soy **Robert Barrios**
 
-**Ingeniero Industrial** con una sólida base en **BI, análisis de datos, procesos ETL, visualización de datos y creación de dashboards estrategicos**, estudiando **Desarrollo de Software** para cotinuar con mi desarrollo tecnologico. 
+Especialista en Business Intelligence con experiencia en liderazgo de procesos ETL, automatización, modelado de datos y visualización ejecutiva. He trabajado con entornos SAP, Power Platform, Oracle y herramientas BI modernas, impulsando la eficiencia operativa y la toma de decisiones basada en datos.
+Destaco por combinar visión analítica, liderazgo y orientación a resultados.
 
-Actualmente soy **Líder de procesos ETL en Price Shoes**
+Actualmente soy **Líder de procesos ETL en Price Shoes** disfruto aprendiendo del mundo del desarrollo.
 
-### 🛠️ **Habilidades Tecnológicas** 
+### **Habilidades Tecnológicas** 
 
 **Herramientas de BI & Análisis de Datos:**  
 - **Excel**
@@ -18,14 +19,13 @@ Actualmente soy **Líder de procesos ETL en Price Shoes**
 - **SQL**
 - **JavaScript** 
 - **Python**
-- **R**
 
 **Adicionales:**  
 - **Adobe Ilustrator**  
 - **Adobe Photoshop**  
 - **Canva**  
 
-### 🎓 **Formación Académica**
+### **Formación Académica**
 
 **Ingeniería en Desarrollo de Software** (En curso)  
 *UVEG*
